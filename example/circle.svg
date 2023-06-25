@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="300" height="200" version="1.1" xmlns="http://www.w3.org/2000/svg">
+   <circle cx="150" cy="100" r="90" stroke="${bgcolor}" fill="${bgcolor}" stroke-width="5"/>
+   <text x="85" y="75" font-weight="bold"  fill='${color}'>${text}</text>
+  <style>
+    <![CDATA[
+      text{
+        dominant-baseline: hanging;
+        font: 60px Verdana, Helvetica, Arial, sans-serif;
+      }
+    ]]>
+  </style> 
+</svg>
